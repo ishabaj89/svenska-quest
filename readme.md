@@ -1,0 +1,1 @@
+An interactive Swedish language-learning game built with React, JavaScript, HTML and CSS. Features include user registration and login, vocabulary practice, translation API integration, scoring, and a responsive user interface. Developed collaboratively by a team of three.
